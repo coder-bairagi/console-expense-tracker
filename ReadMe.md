@@ -12,7 +12,7 @@ This console application allows you to track your expenses, categorize them, and
 
 1. Clone the repository or download the source code.
    ```sh
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/coder-bairagi/console-expense-tracker.git
 
 ## Features
 
@@ -63,4 +63,4 @@ This console application allows you to track your expenses, categorize them, and
 
 ## Contact
 
-- For any inquiries or issues, please contact your-email@example.com.
+- For any inquiries or issues, please contact anandbairagi500@gmail.com.
